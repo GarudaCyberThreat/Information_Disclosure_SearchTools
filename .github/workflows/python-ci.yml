@@ -1,0 +1,37 @@
+# .github/workflows/python-ci.yml
+
+name: Python CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0 # Fetch all history for all branches and tags
+        
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10" # You can specify your desired Python version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Run tests
+      run: |
+        # Change directory to where your tests are located, e.g., 'tests/'
+        # Or run tests from the root if your test runner is configured to find them
+        python -m unittest discover tests
+        # If you use pytest, uncomment the line below and comment the one above
+        # pip install pytest
+        # pytest
