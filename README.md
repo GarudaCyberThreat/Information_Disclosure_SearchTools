@@ -138,6 +138,6 @@ License
 Support Our Work
 If you find this tool useful and wish to support our efforts in developing more open-source cybersecurity tools and resources, you can donate via USDT (TRC20 Network).
 
-USDT (TRC20) Wallet Address: TEtzPQgrmCYi6nEPaj6F7hxxmG1mKzNB3y</span>
+**<span style="color: green;">USDT (TRC20) Wallet Address: `TEtzPQgrmCYi6nEPaj6F7hxxmG1mKzNB3y`</span>**
 
 Your support is greatly appreciated!
