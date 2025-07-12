@@ -22,7 +22,7 @@ Unacceptable behaviors include:
 
 ## Reporting Violations
 
-If you witness or experience behavior that violates this code of conduct, please contact the project maintainers via [hafid.fajar@garudacyberthreat.com](mailto:garudacyberthreat@gmail.com) or by opening a new Issue with the title "Code of Conduct Violation" (choose the option to keep it private if available).
+If you witness or experience behavior that violates this code of conduct, please contact the project maintainers via [garudacyberthreat@gmail.com](mailto:garudacyberthreat@gmail.com) or by opening a new Issue with the title "Code of Conduct Violation" (choose the option to keep it private if available).
 
 All reports will be reviewed and investigated confidentially. The project team reserves the right to take any action deemed necessary, including warnings, temporary suspension, or permanent ban from participation.
 
