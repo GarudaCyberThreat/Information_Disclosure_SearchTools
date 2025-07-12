@@ -1,3 +1,4 @@
+![InfoDisclosureSearch Screenshot](https://raw.githubusercontent.com/GarudaCyberThreat/Information_Disclosure_SearchTools/refs/heads/main/main-images.png)
 InfoDisclosureSearch - Powerful Information Disclosure Scanner
 Overview
 InfoDisclosureSearch is a robust and highly efficient Python-based tool designed for full-power information disclosure vulnerability scanning. Developed by Hafid Fajar, one of the co-founders of Garuda CyberThreat community, this tool meticulously hunts for sensitive data exposure in web applications, quickly and efficiently uncovering exposed sensitive information.
