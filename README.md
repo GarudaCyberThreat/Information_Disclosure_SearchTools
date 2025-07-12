@@ -114,6 +114,12 @@ Bash
 python InfoDisclosureSearch.pyc
 Follow the on-screen instructions to provide your target(s). The results will be displayed in the console and automatically saved to a text file (e.g., information_disclosure_scan_results_YYYYMMDD_HHMMSS.txt) in the same directory.
 
+Disclaimer
+This tool is intended for ethical hacking, penetration testing, and educational purposes only. The Garuda CyberThreat community and Hafid Fajar are not responsible for any misuse or damage caused by this tool. Always ensure you have explicit permission from the target's owner before conducting any security scans.
+
+Contributing
+We welcome contributions! If you have suggestions for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
+
 Connect with Garuda CyberThreat
 Stay updated and connect with our community through the following channels:
 
@@ -125,15 +131,12 @@ Instagram: garuda_cyberthreat
 
 Twitter/X: @GarudaCyberThre
 
+License
+[You might want to add a license here, e.g., MIT License. If not, you can remove this section.]
+
 Support Our Work
 If you find this tool useful and wish to support our efforts in developing more open-source cybersecurity tools and resources, you can donate via USDT (TRC20 Network).
 
-USDT (TRC20) Wallet Address: TEtzPQgrmCYi6nEPaj6F7hxxmG1mKzNB3y
+USDT (TRC20) Wallet Address: TEtzPQgrmCYi6nEPaj6F7hxxmG1mKzNB3y</span>
 
 Your support is greatly appreciated!
-
-Disclaimer
-This tool is intended for ethical hacking, penetration testing, and educational purposes only. The Garuda CyberThreat community and Hafid Fajar are not responsible for any misuse or damage caused by this tool. Always ensure you have explicit permission from the target's owner before conducting any security scans.
-
-Contributing
-We welcome contributions! If you have suggestions for improvements, new features, or bug fixes, feel free to open an issue or submit a pull request.
