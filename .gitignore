@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Distributions and packaging
+dist/
+build/
+*.egg
+*.whl
+
+# Virtual environment
+.venv/
+venv/
+env/
+/bin
+/include
+/lib
+/lib64
+/pyvenv.cfg
+/share
+/.python-version
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# User-specific files
+*.env
+.env.local
+.DS_Store
+
+# Search results (if your tool saves output here)
+output/
+results/
