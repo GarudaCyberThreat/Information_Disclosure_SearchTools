@@ -132,7 +132,7 @@ Instagram: garuda_cyberthreat
 Twitter/X: @GarudaCyberThre
 
 License
-[You might want to add a license here, e.g., MIT License. If not, you can remove this section.]
+[You might want to add a license here, e.g., MIT License. Refer to the previous response on how to create a LICENSE file.]
 
 Support Our Work
 If you find this tool useful and wish to support our efforts in developing more open-source cybersecurity tools and resources, you can donate via USDT (TRC20 Network).
